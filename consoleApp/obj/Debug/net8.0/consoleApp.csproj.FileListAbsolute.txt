@@ -1,0 +1,14 @@
+C:\Users\DeveloperManas\Desktop\NewProject\consoleApp\bin\Debug\net8.0\consoleApp.exe
+C:\Users\DeveloperManas\Desktop\NewProject\consoleApp\bin\Debug\net8.0\consoleApp.deps.json
+C:\Users\DeveloperManas\Desktop\NewProject\consoleApp\bin\Debug\net8.0\consoleApp.runtimeconfig.json
+C:\Users\DeveloperManas\Desktop\NewProject\consoleApp\bin\Debug\net8.0\consoleApp.dll
+C:\Users\DeveloperManas\Desktop\NewProject\consoleApp\bin\Debug\net8.0\consoleApp.pdb
+C:\Users\DeveloperManas\Desktop\NewProject\consoleApp\obj\Debug\net8.0\consoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DeveloperManas\Desktop\NewProject\consoleApp\obj\Debug\net8.0\consoleApp.AssemblyInfoInputs.cache
+C:\Users\DeveloperManas\Desktop\NewProject\consoleApp\obj\Debug\net8.0\consoleApp.AssemblyInfo.cs
+C:\Users\DeveloperManas\Desktop\NewProject\consoleApp\obj\Debug\net8.0\consoleApp.csproj.CoreCompileInputs.cache
+C:\Users\DeveloperManas\Desktop\NewProject\consoleApp\obj\Debug\net8.0\consoleApp.dll
+C:\Users\DeveloperManas\Desktop\NewProject\consoleApp\obj\Debug\net8.0\refint\consoleApp.dll
+C:\Users\DeveloperManas\Desktop\NewProject\consoleApp\obj\Debug\net8.0\consoleApp.pdb
+C:\Users\DeveloperManas\Desktop\NewProject\consoleApp\obj\Debug\net8.0\consoleApp.genruntimeconfig.cache
+C:\Users\DeveloperManas\Desktop\NewProject\consoleApp\obj\Debug\net8.0\ref\consoleApp.dll
